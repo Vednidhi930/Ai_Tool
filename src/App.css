@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+  font-family: outfit;
+  padding: 0;
+  margin: 0;
+}
+
+html,body{
+  overflow-y: hidden;
+}
+
+html,body{
+  background: white;
+}
+
+.effect{
+  transition: all 2s linear;
+}

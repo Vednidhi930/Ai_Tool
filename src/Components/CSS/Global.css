@@ -1,0 +1,21 @@
+.search{
+    position: fixed;
+    top:35.4rem;
+}
+
+.main{
+    width: 50rem;
+}
+
+::-webkit-scrollbar{
+    width: 4px;
+}
+
+::-webkit-scrollbar-track{
+    background: #F0F4F9     
+}
+
+::-webkit-scrollbar-thumb{
+    background:black
+}
+
